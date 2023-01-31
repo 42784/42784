@@ -26,7 +26,7 @@ I focus on in-depth exploration of technology. I like to design lightweight but 
 - 🌱 I’m currently learning Java  
   
 
-- ❓ Ask me about anything related to Java stack and related technologies  
+- ❓ Ask me about anything related to Java technologies 
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
