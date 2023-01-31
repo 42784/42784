@@ -71,6 +71,3 @@ I focus on in-depth exploration of technology. I like to design lightweight but 
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
