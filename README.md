@@ -56,17 +56,9 @@ I focus on in-depth exploration of technology. I like to design lightweight but 
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+![42784's GitHub stats](https://github-readme-stats.vercel.app/api?username=42784&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=42784&langs_count=3&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api?username=42784&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42784&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
 
   
 
